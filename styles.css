@@ -139,7 +139,7 @@ header{
     letter-spacing: 0.03em;
     color: var(--chernyy);
 }
-.main_title h1{
+.main_title h1:hover{
    color: rgba(91, 83, 83, 0.707)
 }
 .navigation{
