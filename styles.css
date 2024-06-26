@@ -138,9 +138,10 @@ header{
     font-size: 35px;
     letter-spacing: 0.03em;
     color: var(--chernyy);
+    cursor:pointer;
 }
 .main_title h1:hover{
-   color: rgba(91, 83, 83, 0.707)
+   color: rgba(91, 83, 83, 0.707);
 }
 .navigation{
     margin-top: 47px;
